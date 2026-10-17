@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_intro/01_intro.vcxproj" Id="c88d44b6-5fcd-4195-8ad0-25b4ed85c99c" />
+  <Project Path="06_Random_Array/06_Random_Array.vcxproj" Id="ae76ee30-7382-410a-b0e3-8cbdee8dcee9" />
+  <Project Path="06_Random_PRACTICE/06_Random_PRACTICE.vcxproj" Id="0af5f42f-04f5-4b54-85b3-0d8f9c742855" />
+  <Project Path="07_Functions/07_Functions.vcxproj" Id="85277522-1f74-459e-a08e-3b5a603a1669" />
+  <Project Path="0_2_Logic_operators/0_2_Logic_operators.vcxproj" Id="495e3fc7-aacc-4ce2-ac83-bf79c8895b3b" />
+  <Project Path="0_2_Practice (LO)/0_2_Practice (LO).vcxproj" Id="2be85020-64d9-4abe-a506-eea284dbdad9" />
+  <Project Path="0_3_Enum_Cycles/0_3_Enum_Cycles.vcxproj" Id="3401226f-05b0-4b38-9378-089d057be004" />
+  <Project Path="0_4_IncludeCycle/0_4_IncludeCycle.vcxproj" Id="d0039d64-cc34-4dd9-9f1c-1e91f066f491" />
+  <Project Path="0_5_Array/0_5_Array.vcxproj" Id="9df18f84-62f5-4115-a561-938475b83471" />
+  <Project Path="Intro/Intro.vcxproj" Id="a39d39d4-54af-4989-bdc3-635ffa612b6c" />
+  <Project Path="RandomTwoDementionArray/RandomTwoDementionArray.vcxproj" Id="f56e1a4d-9400-4acc-ae0c-dd553127ed15" />
+</Solution>
