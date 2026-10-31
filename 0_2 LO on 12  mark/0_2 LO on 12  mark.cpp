@@ -3,7 +3,145 @@
 using namespace std;
 int main()
 {
-	//1 (SWAP) - МІНЯЄ ЗНАЧЕННЯ МІСЦЯМИ ДВОХ ЗМІННИХ
+	//	1
+	//int a;
+	//int b;
+	//int c;
+	//int d;
+	//cout << "Enter first side: ";
+	//cin >> a;
+	//cout << "Enter second side: ";
+	//cin >> b;
+	//cout << "Enter third side: ";
+	//cin >> c;
+	//cout << "Enter fourth side: ";
+	//cin >> d;
+
+	//if (a == b && a == c && a == d)
+	//{
+	//	cout << "This is a square" << endl;
+
+	//}
+	//else if (a == c && b == d)
+	//{
+	//	cout << "This is a rectangle" << endl;
+	//}
+	//else
+	//{
+	//	cout << "This is not a square or rectangle" << endl;
+	//}
+
+	//	 2
+	//int a;
+	//
+	//cout << "Enter age of child: ";
+	//cin >> a;
+
+	//if (a >= 1.5 && a <= 6)
+	//{
+	//	cout<<"Child must go to kindergarten" << endl;
+	//}
+	//else if (a >= 6 && a <= 18)
+	//{
+	//	cout << "Child must go to school" << endl;
+	//}
+	//else
+	//{
+	//	cout << "Error" << endl;
+	//}
+
+	//		3
+	//int a;
+	//int b;
+	//int c;
+	//
+	//cout << "Enter first number : ";
+	//cin >> a;
+	//cout << "Enter second number : ";
+	//cin >> b;
+	//cout << "Enter third number : ";
+	//cin >> c;
+
+	//if ((a < 0 && b < 0 && c >= 0) || ((a < 0 && c < 0 && b >= 0) || (b < 0 && c < 0 && a >= 0)))
+	//{
+	//	cout << "There are 2 negative numbers" << endl;
+	//}
+	//else
+	//{
+	//	cout << "There are not 2 negative numbers" << endl;
+	//}
+
+
+	//		4
+
+	//int a;
+	//cout << "Enter number: ";
+	//cin >> a;
+	//
+	//if (a >= 2 && a <= 5)
+	//{
+	//	cout << "Number is in range [2, 5]" << endl;
+
+	//}
+	//else if (a >= -1 && a <= 1)
+	//{
+	//	cout << "Number is in range [-1, 1]" << endl;
+	//}
+	//else
+	//{
+	//	cout << "Number is not in range" << endl;
+	//}
+
+
+	//		5	
+	//int a;
+	//int b;
+	//int c;
+
+	//cout << "Enter first number : ";
+	//cin >> a;
+	//cout << "Enter second number : ";
+	//cin >> b;
+	//cout << "Enter third number : ";
+	//cin >> c;
+
+	//if ((a == b && b != c) || (a == c && c != b) || (b == c && c != a))
+	//{
+	//	cout << "There are 2 equal numbers " << endl;
+	//}
+	//else
+	//{
+	//	cout << "Error " << endl;
+	//}
+
+
+
+	//		6
+	//int a;
+	//int b;
+	//int c;
+
+	//cout << "Enter first number : ";
+	//cin >> a;
+	//cout << "Enter second number : ";
+	//cin >> b;
+	//cout << "Enter third number : ";
+	//cin >> c;
+
+	//if (a % 2 == 0 && b % 2 == 0 && c % 2 == 0)
+	//{
+	//	cout << "All numbers are even" << endl;
+	//}
+	//else
+	//{
+	//	cout << "Some numbers are even and some are odd" << endl;
+	//}
+
+
+
+		//				НА 12 БАЛІВ
+
+	//	7	 (SWAP) - МІНЯЄ ЗНАЧЕННЯ МІСЦЯМИ ДВОХ ЗМІННИХ
  //   int a;
  //   int b;
 	//cout << "Enter first number : ";
@@ -22,7 +160,7 @@ int main()
 	//}
 
 
-	//2
+	//		8
 	//int a;
 	//float sum;
 	//int numb_of_digits = 3;
@@ -45,7 +183,7 @@ int main()
 	//	cout << "Error" << endl;
 	//}
 
-	//3
+	//		9
 	  
 	//int a;
 	//int b;
@@ -64,7 +202,7 @@ int main()
 	//	cout << "Error time" << endl;
 	//}
 
-	//4
+	//   10
 	//int a;
 	//cout << "Enter hours (0-23): ";
 	//cin >> a;
@@ -87,7 +225,7 @@ int main()
 	//
 	//}
 
-	//5
+	//11
 	int a;
 	int b;
 	int c;
